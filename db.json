@@ -1,4 +1,5 @@
 [
+  "brands": [
   {
     "id": "1",
     "figure": "dist/img/shop/brands/01.png",
@@ -49,4 +50,5 @@
     "figure": "dist/img/shop/brands/07.png",
     "brand": "brooks"
   }
+ ]
 ]
