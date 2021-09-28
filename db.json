@@ -1,4 +1,5 @@
-[
+{
+  "brands": [
   {
     "id": "1",
     "figure": "dist/img/shop/brands/01.png",
@@ -24,4 +25,5 @@
     "figure": "dist/img/shop/brands/06.png",
     "brand": "hermers paris"
   }
-]
+  ]
+}
