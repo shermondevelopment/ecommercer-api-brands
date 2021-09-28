@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "figure": "dist/img/shop/brands/01.png",
+    "brand": "nike"
+  },
+  {
+    "id": "2",
+    "figure": "dist/img/shop/brands/05.png",
+    "brand": "adidas"
+  },
+  {
+    "id": "3",
+    "figure": "dist/img/shop/brands/02.png",
+    "brand": "puma"
+  },
+  {
+    "id": "4",
+    "figure": "dist/img/shop/brands/10.png",
+    "brand": "fila"
+  },
+  {
+    "id": "5",
+    "figure": "dist/img/shop/brands/06.png",
+    "brand": "hermers paris"
+  },
+  {
+    "id": "6",
+    "figure": "dist/img/shop/brands/11.png",
+    "brand": "dior"
+  },
+  {
+    "id": "7",
+    "figure": "dist/img/shop/brands/12.png",
+    "brand": "ray ban"
+  },
+  {
+    "id": "8",
+    "figure": "dist/img/shop/brands/04.png",
+    "brand": "columbia"
+  },
+  {
+    "id": "9",
+    "figure": "dist/img/shop/brands/09.png",
+    "brand": "new balance"
+  },
+  {
+    "id": "10",
+    "figure": "dist/img/shop/brands/07.png",
+    "brand": "brooks"
+  }
+]
