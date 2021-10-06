@@ -3,52 +3,62 @@
   {
     "id": "1",
     "figure": "dist/img/shop/brands/01.png",
-    "brand": "nike"
+    "brand": "nike",
+    "total": 2132
   },
   {
     "id": "2",
     "figure": "dist/img/shop/brands/05.png",
-    "brand": "adidas"
+    "brand": "adidas",
+    "total": 9212
   },
   {
     "id": "3",
     "figure": "dist/img/shop/brands/02.png",
-    "brand": "puma"
+    "brand": "puma",
+    "total": 7231
   },
   {
     "id": "4",
     "figure": "dist/img/shop/brands/10.png",
-    "brand": "fila"
+    "brand": "fila",
+    "total": 4312
   },
   {
     "id": "5",
     "figure": "dist/img/shop/brands/06.png",
-    "brand": "hermers paris"
+    "brand": "hermers paris",
+    "total": 2311
   },
   {
     "id": "6",
     "figure": "dist/img/shop/brands/11.png",
-    "brand": "dior"
+    "brand": "dior",
+    "total": 431
   },
   {
     "id": "7",
     "figure": "dist/img/shop/brands/12.png",
-    "brand": "ray ban"
+    "brand": "ray ban",
+    "total": 2121
   },
   {
     "id": "8",
     "figure": "dist/img/shop/brands/04.png",
-    "brand": "columbia"
+    "brand": "columbia",
+    "total": 222
   },
   {
     "id": "9",
     "figure": "dist/img/shop/brands/09.png",
-    "brand": "new balance"
+    "brand": "new balance",
+    "total": 111
   },
   {
     "id": "10",
     "figure": "dist/img/shop/brands/07.png",
-    "brand": "brooks"
+    "brand": "brooks",
+    "total": 200
   }
   ]
 }
