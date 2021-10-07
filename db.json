@@ -59,12 +59,6 @@
     "figure": "dist/img/shop/brands/07.png",
     "brand": "brooks",
     "total": 200
-  },
-  {
-    "id": "11",
-    "figure": "https://logospng.org/download/lacoste/logo-lacoste-1024.png",
-    "brand": "lacoste",
-    "total": 234
   }
   ]
 }
