@@ -25,12 +25,6 @@
     "total": 4312
   },
   {
-    "id": "5",
-    "figure": "dist/img/shop/brands/06.png",
-    "brand": "hermers paris",
-    "total": 2311
-  },
-  {
     "id": "6",
     "figure": "dist/img/shop/brands/11.png",
     "brand": "dior",
@@ -47,12 +41,6 @@
     "figure": "dist/img/shop/brands/04.png",
     "brand": "columbia",
     "total": 222
-  },
-  {
-    "id": "9",
-    "figure": "dist/img/shop/brands/09.png",
-    "brand": "new balance",
-    "total": 111
   },
   {
     "id": "10",
